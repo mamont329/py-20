@@ -126,3 +126,6 @@ if __name__ == "__main__":
         if play_again != 'да':
             print("\nСпасибо за игру! До новых встреч!")
             break
+
+    def test_branch():
+        ...
