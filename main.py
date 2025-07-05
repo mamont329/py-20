@@ -115,6 +115,9 @@ class Game:
             print(f"☠️ Поражение! {self.computer.name} победил! ☠️")
         print("=" * 60)
 
+    def test_branch2(self):
+        ...
+
 
 if __name__ == "__main__":
     print("🔥" * 10 + " Битва Героев " + "🔥" * 10)
